@@ -3,13 +3,12 @@
 	"id": "gbloc",
 	"version": "${version}",
 	"name": "GBloc",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Press \"Delete\" to set a ghost blocks!",
 	"authors": [
 		"dsvl0"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/0mnr0/GhostBlocks"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/gbloc/icon.png",
